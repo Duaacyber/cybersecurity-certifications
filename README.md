@@ -2,29 +2,31 @@
 
 Welcome to my cybersecurity certification portfolio.
 
-This repository contains certificates and learning achievements from my cybersecurity journey.
+This repository contains certificates and learning achievements from my journey into cybersecurity.
 
 ## 📜 Certifications
 
-### Hackviser – Certified Cybersecurity Foundations (CORE)
+### 1. Hackviser – Certified Cybersecurity Foundations (CORE)
 
 - **Provider:** Hackviser
-- **Certification:** Certified Cybersecurity Foundations (CORE)
 - **Issued:** August 30, 2026
-- **Certificate ID:** HV-CORE-34FIJ7Y4
+- **Credential:** HV-CORE-34FIJ7Y4
+- **Focus:** Cybersecurity Foundations
 
-### 🧠 Skills & Knowledge
-
-- Cybersecurity fundamentals
-- Security concepts
-- Practical security exercises
-- Security awareness
-- Foundational cybersecurity practices
-
-## 📜 Certificate
-
-![Hackviser CORE Certificate](Hackviser-CORE-Certificate.png)
+📁 [View Certificate](Hackviser-CORE/Hackviser-CORE-Certificate.png)
 
 ---
 
-🚀 **Currently building my cybersecurity skills through courses, hands-on labs, CTFs, and security projects.**
+## 🚀 My Cybersecurity Journey
+
+I am continuously building my cybersecurity knowledge through:
+
+- Cybersecurity courses
+- Hands-on labs
+- Capture The Flag (CTF) challenges
+- Linux practice
+- Security projects
+- Certifications
+- GitHub projects
+
+More certifications and projects will be added as I continue learning.
