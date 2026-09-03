@@ -1,0 +1,23 @@
+# Computer Vision App with Azure Cognitive Services
+
+A guided project completed as part of a Microsoft-authored course on Coursera, focused on building a computer vision application using **Azure Cognitive Services**.
+
+## 📌 Overview
+This project explored how to integrate Microsoft Azure's pre-built AI models into an application to perform image analysis tasks — such as object detection, image tagging, and extracting descriptive metadata from images — without training a model from scratch.
+
+## 🧠 What I Learned
+- Setting up and configuring an Azure Cognitive Services resource
+- Making API calls to Azure's Computer Vision endpoint
+- Parsing and using the JSON responses (tags, descriptions, detected objects)
+- Understanding how cloud-hosted AI services can be integrated into real applications
+- Practical exposure to Microsoft's Azure ecosystem, relevant to both AI and cloud security work
+
+## 🛠️ Tech / Tools
+- Microsoft Azure Cognitive Services (Computer Vision API)
+- Coursera guided project environment
+
+## 📜 Certificate
+Completed **Sep 2026** — [Verify on Coursera](https://coursera.org/verify/OQ8EHMSU81FB)
+
+---
+*Part of my ongoing learning journey toward a career in cybersecurity — building cloud and AI fundamentals alongside security-focused skills.*
